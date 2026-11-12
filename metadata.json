@@ -1,0 +1,8 @@
+{
+  "name": "APK Package Fixer",
+  "description": "أداة متطورة لإصلاح أخطاء تثبيت وتحليل حزم APK وتعديل إصدارات الأندرويد وفرض التوافق والتوقيع الرقمي",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
